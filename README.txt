@@ -1,8 +1,8 @@
-CSC 207 Homework 4: Blocky
+#CSC 207 Homework 4: Blocky
 
-Nora Schoenle, Esther Hwang, Joshua Tibatemwa
+Nolan Schoenle, Esther Hwang, Joshua Tibatemwa
 
-This homework focuses on debugging a version of Tetris. 
+This homework focuses on debugging a version of Tetris. The source code was provided by the instructor with various errors to fix.
 
 Resources:
  Help with random from http://stackoverflow.com/questions/5887709/getting-random-numbers-in-java
